@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<img src="https://myreadme.vercel.app/api/embed/denis-kasak?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=denis-kasak&theme=tokyonight" alt="mystreak"/>
