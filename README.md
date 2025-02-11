@@ -1,8 +1,10 @@
 # Denis Kasakow
 
-👋 Hi, I'm Denis - a passionate professional with expertise in web development and a strong background in creating user-friendly applications. Dedicated to continuous learning and improving development processes.
+> english version below
 
-📫 Contact: contact@kasakow.com
+👋 Hi, ich bin Denis - ein leidenschaftlicher Informatik Master-Stdent mit IT-Berufserfahrung.
+
+Kontakt: contact@kasakow.com
 
 ## 💻 Hard Skills
 - Software Engineering
@@ -20,24 +22,24 @@
 ## 🎓 Education & Experience
 
 **Humboldt-Universität zu Berlin**  
-*Master of Science in Computer Science*  
+*Master of Science in Informatik*  
 Oktober 2024 - Present
 
 **Hochschule für Wirtschaft und Recht Berlin**  
-*Bachelor of Science in Computer Science*
+*Bachelor of Science in Informatik*
 *Entwicklung eines Protyps für eine KI-Anwendung zur Semantischen Suche*
 <br />
 Oktober 2021 - September 2024  
 
 **Mercoline GmbH**  
-*Working Student in Computer Science*  
+*Dualer Student in Informatik*  
 *SAP, Cloud und Innovation*
 <br />
 August 2021 - September 2024
 
 ## 🚀 Projects
 
-### AI Search Engine
+### KI Suchmaschine
 A semantic search engine powered by machine learning algorithms for efficient document retrieval.
 - Technologies: Python, NLP, Machine Learning
 
@@ -60,3 +62,7 @@ A full-stack application for organizing and tracking personal tasks and projects
 ---
 
 Feel free to reach out and connect! 👨‍💻
+
+
+
+
