@@ -1,6 +1,6 @@
 # Hello World, my name is Denis
 
-I am a Master's student in Computer Science and have strong interest in Software Engineering, drafting Software Architectures, processing large amounts of data and training machine learning models.
+I am a master's student in computer science and have strong interest in software engineering, drafting software architectures, processing large amounts of data and training machine learning models.
 
 Currently, I am studying at the [Humboldt-Universität zu Berlin](https://www.hu-berlin.de) and am focusing on topics according to my interests.
 
